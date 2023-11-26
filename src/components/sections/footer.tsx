@@ -64,7 +64,7 @@ const Footer = () => {
             </span>
           </p>
           <p className="mx-8 lg:mx-24">
-            Code by.
+            Code by
             <span className="font-bold text-black">
               arbabmalik46
             </span>
